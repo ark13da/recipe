@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.5bbab033.chunk.css",
-    "main.js": "./static/js/main.74fd9ec1.chunk.js",
-    "main.js.map": "./static/js/main.74fd9ec1.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.5296b97a.js",
-    "runtime-main.js.map": "./static/js/runtime-main.5296b97a.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "./static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.1ba2866b.chunk.js": "./static/js/2.1ba2866b.chunk.js",
-    "static/js/2.1ba2866b.chunk.js.map": "./static/js/2.1ba2866b.chunk.js.map",
+    "main.css": "./static/css/main.3f396b4d.chunk.css",
+    "main.js": "./static/js/main.d271d25a.chunk.js",
+    "main.js.map": "./static/js/main.d271d25a.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.39dbb347.js",
+    "runtime-main.js.map": "./static/js/runtime-main.39dbb347.js.map",
+    "static/js/2.743f74ea.chunk.js": "./static/js/2.743f74ea.chunk.js",
+    "static/js/2.743f74ea.chunk.js.map": "./static/js/2.743f74ea.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "./static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.5bbab033.chunk.css.map": "./static/css/main.5bbab033.chunk.css.map",
-    "static/js/2.1ba2866b.chunk.js.LICENSE.txt": "./static/js/2.1ba2866b.chunk.js.LICENSE.txt"
+    "static/css/main.3f396b4d.chunk.css.map": "./static/css/main.3f396b4d.chunk.css.map",
+    "static/js/2.743f74ea.chunk.js.LICENSE.txt": "./static/js/2.743f74ea.chunk.js.LICENSE.txt",
+    "static/media/2021.19adbe25.jpg": "./static/media/2021.19adbe25.jpg",
+    "static/media/arcade.1a75c52c.png": "./static/media/arcade.1a75c52c.png",
+    "static/media/hox.b87bc63b.png": "./static/media/hox.b87bc63b.png",
+    "static/media/logo.d1695b71.svg": "./static/media/logo.d1695b71.svg",
+    "static/media/portfolioImg.c69d425b.png": "./static/media/portfolioImg.c69d425b.png",
+    "static/media/recipe.375a17ac.png": "./static/media/recipe.375a17ac.png",
+    "static/media/voizy.3f3fe753.png": "./static/media/voizy.3f3fe753.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5296b97a.js",
-    "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.1ba2866b.chunk.js",
-    "static/css/main.5bbab033.chunk.css",
-    "static/js/main.74fd9ec1.chunk.js"
+    "static/js/runtime-main.39dbb347.js",
+    "static/js/2.743f74ea.chunk.js",
+    "static/css/main.3f396b4d.chunk.css",
+    "static/js/main.d271d25a.chunk.js"
   ]
 }
